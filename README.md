@@ -2,7 +2,7 @@
 
 A 16-bit arcade shoot-'em-up: fly RSAF jets through 10 sorties over Singapore and defend the Lion City.
 
-**Play in your browser:** https://sspandayang-star.github.io/Lion-Strike/
+**Play in your browser:** https://inthemightyjungle.github.io/Lion-Strike/
 
 No sign-in and no download. It works on phones, tablets and computers.
 
